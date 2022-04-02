@@ -1,0 +1,51 @@
+.collab-banner{
+    background:url('../../assets//servicesection/colab-banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    
+
+
+    h2{
+        color: white;
+        padding-top: 30px;
+    }
+    .colab-detail{
+        width: 45%;
+        text-align: center;
+        color: white;
+        align-content: center;
+        justify-content: center;
+        display: flex;
+        margin-left: auto;
+        margin-right: auto;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 12px;
+    }
+    .cust-btn{
+        margin-left: auto;
+        margin-right: auto;
+        align-content: center;
+        justify-content: center;
+        display: flex;
+        margin-top: 20px;
+    }
+}
+
+
+@media(max-width:600px){
+    .collab-banner{
+        text-align: left;
+        height: max-content;
+        margin: 0 3% 5px 3%;
+        width: 94%;
+        border-radius: 10px;
+    .colab-detail{
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: left;
+    }
+}
+}

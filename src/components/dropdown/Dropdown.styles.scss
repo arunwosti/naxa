@@ -1,0 +1,12 @@
+.option{
+    position: absolute;
+    top: 58px;
+    width: 200px;
+    transform: translateX(-45%);
+    padding: 1rem;
+    overflow: hidden;
+}
+.Dropdown-items{
+    display: flex;
+    flex-direction: column;
+}

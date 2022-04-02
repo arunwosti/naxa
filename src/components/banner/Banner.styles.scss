@@ -1,0 +1,32 @@
+.banner-text{
+    text-align: left;
+    margin-top: 100px;
+
+    h6{
+        color: #FFAB18;
+        font-size: 16px;
+        font-weight: 500;
+        
+    }
+    p{
+        font-size: 16px;
+        font-weight: 500;
+        padding-top: 25px;
+
+        span{
+            color: #05f;
+        }
+    }
+    .banner-text-description{
+        max-width: 60%;
+        height: 180px;
+    }
+}
+
+
+@media(max-width:600px){
+    .banner-text-description{
+        min-width: 95%;
+        
+    }
+}

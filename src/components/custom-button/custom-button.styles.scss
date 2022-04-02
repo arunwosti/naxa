@@ -1,0 +1,45 @@
+.custom-button {
+    min-width: 155px;
+    width: auto;
+    height: 30px;
+    letter-spacing: 0.5px;
+    line-height: 30px;
+    padding: 0 10px 0 10px;
+    font-size: 12px;
+    background-color: var(--yellow);
+    color: #05f;
+    //text-transform: uppercase;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+
+
+    i{
+        padding-top: 9px;
+        padding-left: 4px;
+        font-weight: 400;
+        display: none;
+
+    }
+    
+  
+    &:hover {
+      background-color: orange;
+      color: #05f;
+      
+
+
+      i{
+          display: flex;
+      }
+      span{
+        transform: scaleX(1.1);
+    }
+    }
+   
+
+    
+  }

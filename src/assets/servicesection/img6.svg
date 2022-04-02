@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1976" data-name="Rectangle 1976" width="100" height="100" transform="translate(81 42)" fill="#f4f4f4"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_19" data-name="Mask Group 19" transform="translate(-81 -42)" clip-path="url(#clip-path)">
+    <g id="training" transform="translate(88 36.06)">
+      <path id="Path_3524" data-name="Path 3524" d="M303.52,16H301v7.559h5.039V16Z" transform="translate(-250.441)" fill="#ffab00"/>
+      <path id="Path_3526" data-name="Path 3526" d="M256.827,325.434h-4.68l-10.078,25.2,4.68,1.87,7.738-19.345,7.738,19.345,4.68-1.87Z" transform="translate(-201.409 -257.459)" fill="#ffdc1c"/>
+      <path id="Path_3527" data-name="Path 3527" d="M328.418,350.629l-10.078-25.2H316v7.72l7.738,19.345Z" transform="translate(-262.922 -257.459)" fill="#ffab00"/>
+      <path id="Path_3528" data-name="Path 3528" d="M153.754,46H121V96.391h65.676V46Z" transform="translate(-100.676 -24.961)" fill="#a0aeff"/>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="10" cy="10" r="10" transform="translate(11 15.94)" fill="#05f"/>
+      <path id="Path_3531" data-name="Path 3531" d="M20.324,136H12.766A12.742,12.742,0,0,0,0,148.6v22.676H5.207l2.307-5.039,2.732,5.039v25.2H17.8l2.52-4.6,2.52,4.6H30.4v-52.91H53.078V136Z" transform="translate(0 -99.844)" fill="#05f"/>
+      <g id="Group_4393" data-name="Group 4393" transform="translate(5.207 36.156)">
+        <path id="Path_3532" data-name="Path 3532" d="M123.52,196.469h7.559v-52.91h22.676V136H121v55.866Z" transform="translate(-105.883 -136)" fill="#001acb"/>
+        <path id="Path_3533" data-name="Path 3533" d="M31,226h5.039v20.156H31Z" transform="translate(-31 -210.883)" fill="#001acb"/>
+        <path id="Path_3534" data-name="Path 3534" d="M106,316h5.039v30.234H106Z" transform="translate(-93.402 -285.766)" fill="#001acb"/>
+      </g>
+      <path id="Path_3535" data-name="Path 3535" d="M121,316h2.52v30.234H121Z" transform="translate(-100.676 -249.609)" fill="#a0aeff"/>
+    </g>
+  </g>
+</svg>
