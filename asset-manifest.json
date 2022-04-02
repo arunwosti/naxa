@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/naxa/static/css/main.c1c75910.css",
+    "main.js": "/naxa/static/js/main.0be1a143.js",
+    "static/media/jpg": "/naxa/static/media/5f2e7ab4fc673af02b45eed51bf5cb5e.95ca50008e843cc4908c.jpg",
+    "static/media/colab-banner.png": "/naxa/static/media/colab-banner.efb8fd9b476a299dc553.png",
+    "static/media/background.svg": "/naxa/static/media/background.0991c5891aaa04df44a4.svg",
+    "static/media/media.svg": "/naxa/static/media/media.c2024627c602601589985cb789c34e07.svg",
+    "static/media/eventorg.svg": "/naxa/static/media/eventorg.460b01ed07f6b30af706c7a72a28f3f8.svg",
+    "static/media/logo.svg": "/naxa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/team.svg": "/naxa/static/media/team.3c89e16983ccf30a69b4d14a1b963ce6.svg",
+    "static/media/publication.svg": "/naxa/static/media/publication.f6b6c0fa59fa5a9c721fbb86ef632781.svg",
+    "static/media/event.svg": "/naxa/static/media/event.87d0b53f43471c6e9e3f1fdcbb90cf74.svg",
+    "index.html": "/naxa/index.html",
+    "static/media/constant-icon.svg": "/naxa/static/media/constant-icon.5383b9abf94a5301d9d6b0191bfd7f67.svg",
+    "main.c1c75910.css.map": "/naxa/static/css/main.c1c75910.css.map",
+    "main.0be1a143.js.map": "/naxa/static/js/main.0be1a143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1c75910.css",
+    "static/js/main.0be1a143.js"
+  ]
+}
